@@ -58,7 +58,7 @@ EmployeeManagement/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/EmployeeManagement.git
+   git clone https://github.com/RiDdHiSh-sys/EmployeeManagement.git
    cd EmployeeManagement
    ```
 
